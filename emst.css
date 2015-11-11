@@ -100,7 +100,7 @@ LIST-STYLE-TYPE: circle;
 }
 
 TD {
-FONT-SIZE: 11px;
+FONT-SIZE: 20px;
 FONT-FAMILY: "Verdana", "sans-serif", "Arial", "Helvetica";
 }
 
@@ -113,7 +113,7 @@ FONT-FAMILY: "Verdana", "Geneva",  "Arial", "Helvetica", "sans-serif";
 
 body {
 font-family: "Verdana", "sans-serif", "Arial", "Helvetica";
-background: #f9f9f9;
+background: #0000BB;
 font-size: 10px;
 margin-left: 5px;
 margin-top: 5px;
