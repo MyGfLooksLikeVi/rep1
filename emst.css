@@ -127,7 +127,7 @@ h1 {
 font-weight: bold;
 font-size: 11px;
 border-bottom: 1px #8CACBB solid;
-padding=5px;
+padding: 5px;
 }
 
 a {
@@ -137,7 +137,7 @@ text-decoration: none;
 }
 
 a:link {
-color: #0000000;
+color: #000000;
 text-decoration: none;
 }
 
